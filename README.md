@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, sou o Nicolas
+Olá, eu não sou o Nicolas, mas pode me chamar de Nicolas :)
 
 
 ## 🌐 Socials:

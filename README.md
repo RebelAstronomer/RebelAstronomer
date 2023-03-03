@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, eu não sou o Nicolas, mas pode me chamar de Nicolas :)
+Olá, me chamo Nicolas. Apaixonado pelo mundo da computação, musica e games
 
 
 ## 🌐 Socials:

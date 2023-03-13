@@ -14,9 +14,6 @@ Olá, me chamo Nicolas. Apaixonado pelo mundo da computação, musica e games
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RebelAstronomer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=RebelAstronomer&icon=8&color=0)](https://visitcount.itsvg.in)
 

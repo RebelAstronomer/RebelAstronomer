@@ -10,12 +10,15 @@ Olá, me chamo Nicolas. Sou apaixonado pelo mundo da computação, musica e game
 [![My Skills](https://skillicons.dev/icons?i=fastapi,python,mongodb,postgres,prisma,nodejs)](https://skillicons.dev)
 
 # 🛠 Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,npm,pnpm,docker,nodejs,neovim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,npm,pnpm,docker,jest,vitest,neovim,vscode,obsidian)](https://skillicons.dev)
 
 # 📚 Estudando:
 [![My Skills](https://skillicons.dev/icons?i=rust,elixir)](https://skillicons.dev)
 
+# 🎮 Engines:
+[![My Skills](https://skillicons.dev/icons?i=unreal,godot)](https://skillicons.dev)
+
 # 🤓 Tenho algum conhecimento:
-[![My Skills](https://skillicons.dev/icons?i=django,cpp,angular,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,c,cpp,angular,lua,astro)](https://skillicons.dev)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

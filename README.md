@@ -1,5 +1,6 @@
 # 💫 Sobre mim:
 Olá, me chamo Nicolas. Sou apaixonado pelo mundo da computação, musica e games. Trabalho como desenvolvedor Fullstack e também sei sobre programação para jogos. Também sei tocar baixo :)
+
 [![](https://visitcount.itsvg.in/api?id=RebelAstronomer&icon=5&color=4)](https://visitcount.itsvg.in)
 
 # 💻 Front-end:

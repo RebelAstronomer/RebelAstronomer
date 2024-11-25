@@ -1,9 +1,27 @@
-# 💫 About Me:
-Olá, me chamo Nicolas. Sou apaixonado pelo mundo da computação, musica e games. Trabalho como desenvolvedor Front-end e estou estudando para me tornar Full-Stacks. Faço game utilizando Unrel Engine 4 e Godot, ainda no inicio, mas muito empolgado. Também sei tocar baixo :)
+# 💫 Sobre mim:
+Olá, me chamo Nicolas. Sou apaixonado pelo mundo da computação, musica e games. Trabalho como desenvolvedor Fullstack e também sei sobre programação para jogos. Também sei tocar baixo :)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 💻 Front-end:
 ---
-[![](https://visitcount.itsvg.in/api?id=RebelAstronomer&icon=8&color=0)](https://visitcount.itsvg.in)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,next,tailwindcss,vite)](https://skillicons.dev)
+
+# 🤖 Back-end:
+---
+[![My Skills](https://skillicons.dev/icons?i=fastapi,python,mongodb,postgres,prisma,nodejs)](https://skillicons.dev)
+
+# 🛠 Ferramentas:
+---
+[![My Skills](https://skillicons.dev/icons?i=git,npm,pnpm,docker,nodejs,neovim,vscode)](https://skillicons.dev)
+
+# 📚 Estudando:
+---
+[![My Skills](https://skillicons.dev/icons?i=rust,elixir)](https://skillicons.dev)
+
+# 🤓 Tenho algum conhecimento:
+---
+[![My Skills](https://skillicons.dev/icons?i=django,cpp,angular,lua)](https://skillicons.dev)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RebelAstronomer&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

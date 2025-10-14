@@ -1,21 +1,31 @@
-# 💫 Sobre mim:
-Olá! Meu nome é Nicolas e sou apaixonado por computação, música e games. Trabalho como desenvolvedor **Full Stack**, com experiência no desenvolvimento de sites e aplicações utilizando **Next.js** com **TypeScript** e **FastAPI**. Tenho conhecimento na criação e manutenção de bancos de dados **PostgreSQL** e **MongoDB** e utilizo **Docker** para facilitar a portabilidade e gerenciamento de ambientes. Além disso, desenvolvo jogos nas horas vagas. Estou sempre explorando diferentes tecnologias e mecânicas.
+# 💫 About Me
 
-[![](https://visitcount.itsvg.in/api?id=RebelAstronomer&icon=5&color=4)](https://visitcount.itsvg.in)
+Hi there! I'm **Nicolas**, a **Full Stack Developer** passionate about **coding, music, and games**.
+I build modern web applications using **Next.js (TypeScript)** and **ExpressJS**, working with **PostgreSQL** and **MongoDB** for data management.
+I also use **Docker** to ensure smooth environment deployment and reproducibility.
+In my spare time, I enjoy **developing games** and exploring **low-level programming with C/C++**.
 
-# 💻 Front-end:
+---
+
+## 💻 Front-end
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,next,tailwindcss,vite)](https://skillicons.dev)
 
-# 🤖 Back-end:
-[![My Skills](https://skillicons.dev/icons?i=fastapi,python,mongodb,postgres,nodejs)](https://skillicons.dev)
+## 🤖 Back-end
+[![My Skills](https://skillicons.dev/icons?i=express,mongodb,postgres,nodejs)](https://skillicons.dev)
 
-# 🛠 Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,prisma,npm,pnpm,docker,jest,vitest,cypress,notion)](https://skillicons.dev)
+## 🛠 Tools
+[![My Skills](https://skillicons.dev/icons?i=git,prisma,npm,pnpm,docker,notion)](https://skillicons.dev)
 
-# 📚 Estudando:
-[![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+## 📊 GitHub Stats
 
-# 🤓 Tenho conhecimento:
-[![My Skills](https://skillicons.dev/icons?i=django,c,cpp,angular,lua,astro)](https://skillicons.dev)
+![Nicolas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RebelAstronomer&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RebelAstronomer&layout=compact&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolas-gomes-de-almeida-602234190/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](nicolasgalmeida.contato@gmail.com)
+
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://your-portfolio.com) -->

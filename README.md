@@ -7,14 +7,17 @@ In my spare time, I enjoy **developing games** and exploring **low-level program
 
 ---
 
-## 💻 Front-end
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,next,tailwindcss,vite)](https://skillicons.dev)
+## 🖼️ Frontend
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,next,tailwindcss,vite)](https://skillicons.dev)
 
-## 🤖 Back-end
-[![My Skills](https://skillicons.dev/icons?i=express,mongodb,postgres,nodejs)](https://skillicons.dev)
+## 🖥️ Backend
+[![My Skills](https://skillicons.dev/icons?i=express,fastapi,mongodb,postgres,sqlite,nodejs,python)](https://skillicons.dev)
 
 ## 🛠 Tools
-[![My Skills](https://skillicons.dev/icons?i=git,prisma,npm,pnpm,docker,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,prisma,npm,pnpm,docker,notion,n8n)](https://skillicons.dev)
+
+## 🤓 Other languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,lua,godot,unreal,odin)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 

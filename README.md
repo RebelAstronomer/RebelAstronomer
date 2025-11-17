@@ -8,21 +8,24 @@ In my spare time, I enjoy **developing games** and exploring **low-level program
 ---
 
 ## 🖼️ Frontend
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,next,tailwindcss,vite)](https://skillicons.dev)
+![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=typescript,javascript,html,css3,tailwindcss,reactjs,reactrouter,nextjs,vite)
 
 ## 🖥️ Backend
-[![My Skills](https://skillicons.dev/icons?i=express,fastapi,mongodb,postgres,sqlite,nodejs,python)](https://skillicons.dev)
+![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=expressjs,fastapi,fastify,mongodb,postgresql,sqlite,nodejs,python)
 
 ## 🛠 Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,prisma,npm,pnpm,docker,notion,n8n)](https://skillicons.dev)
+![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=git,github,prisma,npm,pnpm,docker,n8n,turborepo,notion)
 
 ## 🤓 Other languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,lua,godot,unreal,odin)](https://skillicons.dev)
+![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=c,cpp,astro,lua)
+
+## 🎮 Engines
+![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=godot,unrealengine,raylib)
 
 ## 📊 GitHub Stats
 
 ![Nicolas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RebelAstronomer&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RebelAstronomer&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RebelAstronomer&layout=compact&theme=radical) 
 
 ---
 
